@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+.vs/
+.idea/
+TestResults/
+node_modules/
+.next/
+out/
+.env
+*.log
+next-env.d.ts

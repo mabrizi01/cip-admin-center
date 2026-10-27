@@ -2,7 +2,7 @@
 
 CIP Admin Center is a **StarHealth** software platform for the governance, configuration and deployment management of modular healthcare software **Solutions**. It is administrative and infrastructural: it provides common governance, configuration, entitlement, access-mediation and deployment-management capabilities **without** containing the clinical business logic of the Solutions it manages.
 
-> The acronym "CIP" is not expanded anywhere: no expansion has been provided. The product name is "CIP Admin Center".
+The acronym "CIP" stands for "Clinical Intelligence platform". The product name is "CIP Admin Center".
 
 Organisations are modelled as **Customer → Tenant → Facility → Unit**. Customer and Tenant are distinct concepts: a Customer is the contracting party; Tenants, Facilities and Units are the contexts in which Solutions are made available and configured.
 
